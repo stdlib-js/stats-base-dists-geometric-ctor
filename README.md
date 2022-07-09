@@ -63,7 +63,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.Geometric;
+})();
 })();
 </script>
 ```
@@ -312,6 +314,7 @@ y = geometric.quantile( 1.9 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-geometric-ctor@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 var geometric = new Geometric( 0.5 );
 
@@ -327,6 +330,7 @@ var s2 = geometric.variance;
 var y = geometric.cdf( 2.0 );
 // returns 0.875
 
+})();
 })();
 </script>
 </body>
