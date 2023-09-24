@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import Geometric from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-geometric-ctor@esm/index.mjs';
+import Geometric from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-geometric-ctor@v0.1.0-esm/index.mjs';
 ```
 
 #### Geometric( \[p] )
@@ -298,7 +298,7 @@ y = geometric.quantile( 1.9 );
 <body>
 <script type="module">
 
-import Geometric from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-geometric-ctor@esm/index.mjs';
+import Geometric from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-geometric-ctor@v0.1.0-esm/index.mjs';
 
 var geometric = new Geometric( 0.5 );
 
