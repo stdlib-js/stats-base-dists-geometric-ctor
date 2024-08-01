@@ -45,7 +45,7 @@
     "@stdlib/stats-base-dists-geometric-logpmf": "^0.2.2",
     "@stdlib/stats-base-dists-geometric-mean": "^0.2.2",
     "@stdlib/stats-base-dists-geometric-median": "^0.2.2",
-    "@stdlib/stats-base-dists-geometric-mgf": "^0.2.1",
+    "@stdlib/stats-base-dists-geometric-mgf": "^0.2.2",
     "@stdlib/stats-base-dists-geometric-mode": "^0.2.2",
     "@stdlib/stats-base-dists-geometric-pmf": "^0.2.2",
     "@stdlib/stats-base-dists-geometric-quantile": "^0.2.2",
