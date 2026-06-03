@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-02)
+## Unreleased (2026-06-03)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`5d9b12d`](https://github.com/stdlib-js/stdlib/commit/5d9b12d1437c68dca5d2ecd84b1407e756893dbf) - rename `logpdf` to `logpmf` in `base/dists/geometric/ctor` [(#12500)](https://github.com/stdlib-js/stdlib/pull/12500)
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`5d9b12d`](https://github.com/stdlib-js/stdlib/commit/5d9b12d1437c68dca5d2ecd84b1407e756893dbf) - **fix:** rename `logpdf` to `logpmf` in `base/dists/geometric/ctor` [(#12500)](https://github.com/stdlib-js/stdlib/pull/12500) _(by Philipp Burckhardt)_
 -   [`187e141`](https://github.com/stdlib-js/stdlib/commit/187e141098635f0f2edf0f6f1289e06473ae7fcd) - **chore:** add missing `npm` engine constraint to `stats/base/dists/*/ctor` [(#11686)](https://github.com/stdlib-js/stdlib/pull/11686) _(by Philipp Burckhardt)_
 -   [`45e5fab`](https://github.com/stdlib-js/stdlib/commit/45e5fabec7c1617c1aa88cc757ade2f799221a38) - **bench:** refactor to use string interpolation in `stats/base/dists/geometric` [(#10361)](https://github.com/stdlib-js/stdlib/pull/10361) _(by Vishal Gaikwad, Athan Reines)_
 
